@@ -1,7 +1,8 @@
 # international_breweries
 
-THE DATASET
+#### THE DATASET
 The dataset is international_Breweries datasets that contains information about the following variables:
+
 SALES_ID: this the unique identification number of the SALES_REP
 SALES_REP: this is the names of the sales representative of the organization
 EMAILS: this are the email address of the sales representatives
@@ -15,7 +16,7 @@ COUNTRIES: this are the nations where the brand products are being sold. This na
 MONTHS: This is the month that the transaction of business happened
 YEARS: This the year that the business transactions happened. 
 
-SUMMARY AND FINDINGS OF THE DATASET
+#### SUMMARY AND FINDINGS OF THE DATASET
 •	The total profit made according to the Dataset information within the space of the last three years based on all the nations (Anglophone and francophone) is 105,587,420
 •	The country with the highest profit in 2019 is Ghana
 •	Within the last three years, the year with the highest profit is 2017 with profit of 38,503,320
