@@ -4,9 +4,13 @@
 The dataset is international_Breweries datasets that contains information about the following variables:
 
 SALES_ID: this the unique identification number of the SALES_REP
+
 SALES_REP: this is the names of the sales representative of the organization
+
 EMAILS: this are the email address of the sales representatives
+
 BRANDS: this are the products of the organisation that sales representative handles and sells to customers
+
 PLANT_COST: this the cost of the of plants that each Brands are refined from.
 UNIT_PRICE: This the price of each brand product
 QUANTITY: This the number of brand products bought
